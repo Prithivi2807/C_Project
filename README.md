@@ -1,11 +1,9 @@
-# C_Project
-## Hello sir I created this Assighment by using of ubuntu Nano Terminal 
-## Download the sysinfo.c file paste into any where in the linux 
+Download the sysinfo.c file paste into any where in the linux 
 for example paste it in Desktop 
-## Open the Terminal and use cd ~/Desktop
-## Compile the C program
+Open the Terminal and use cd ~/Desktop
+Compile the C program
 gcc -o sysinfo sysinfo.c
-## Run the compiled program, passing the directory to list as an argument
+Run the compiled program, passing the directory to list as an argument
 ./sysinfo   
 
 it will show 
